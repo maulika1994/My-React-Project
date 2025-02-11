@@ -1,0 +1,62 @@
+.image-logo {
+    width: 100px;
+}
+.logo-container {
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+.nav-item {
+    display: flex;
+    list-style-type: none;
+    padding: 0px 20px;
+}
+.nav-item li {
+    padding: 10px;
+
+}
+.restorant-container {
+    height: 357px;
+    width: 200;
+    background-color: lightgrey;
+    padding: 5px;
+    display: inline-block;
+
+}
+.restorant-container :hover{
+    border: 1px solid black;
+}
+
+.search-bar {
+    padding: 10px;
+}
+
+.image {
+    width: 200px;
+}
+.topRatedRestaurant {
+    margin: 10px;
+    cursor: pointer;
+}
+.shimmer-card {
+    height: 357px;
+    width: 200;
+    background-color: lightgrey;
+    margin: 10px;
+}
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.login-button {
+    margin: 16px;
+}
+.filter {
+    display: flex;
+}
+.search {
+    margin: 10px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,20 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namsteReact by maulika",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "maulika",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.13.2",
+    "react": "^19.0.0",
+    "react-router-dom": "^7.0.2"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
